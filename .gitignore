@@ -1,2 +1,7 @@
 .ipynb_checkpoints/
 *.pyc
+*.pkl
+*.png
+*.jpg
+*.jpeg
+.DS_store
